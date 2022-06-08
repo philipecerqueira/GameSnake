@@ -1,11 +1,19 @@
-## GameSnake
-###Criação do meu primeiro jogo utilizando python
-
-Para consguir jogar, basta instalar a biblioteca pygame com o comando:
-
-pip install pygame
+# GameSnake
+ Criação do meu primeiro jogo utilizando python
 
 
-E rodar o jogo com:
+#### 📦 Como Baixar o Projeto
+```bash
+   # Clonar o repositório
+   $ git clone https://github.com/iagoit/readme
+```
 
-python Snake.py
+- Para consguir jogar, basta instalar a biblioteca pygame com o comando:
+```bash
+    pip install pygame
+```
+
+- E rodar o jogo com:
+```bash
+    python Snake.py
+```
